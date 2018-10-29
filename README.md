@@ -1,3 +1,1 @@
-# Here we go...
-Oh hi Mark!
-# This folder will be my data sciense playground!
+This code will scrape items' featurs from a retail webiste
