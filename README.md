@@ -1,1 +1,3 @@
+# Here we go...
+Oh hi Mark!
 # This folder will be my data sciense playground!
